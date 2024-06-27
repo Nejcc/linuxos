@@ -42,3 +42,8 @@ desc env
 
 - gnome (default) + GDM (display manager)
 - kde
+
+
+select grub for bootloader
+
+sudo pacman -S neofetch
